@@ -1,5 +1,5 @@
 <template>
-    <main>
+    <main class="p-5">
         <div class="container p-5 bg-white rounded-4">
             <div class="row gap-4 d-flex justify-content-center">
                 <div v-for="card in store.cardElements" class="col-12 col-sm-6 col-md-4 col-lg-2">
