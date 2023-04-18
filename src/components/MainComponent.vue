@@ -35,6 +35,8 @@
         background-color: #048f7c;
     }
     .dc-card-body{
+        min-height: 184px;
+        max-height: 184px;
         background-color: #d48f38;
     }
 </style>
